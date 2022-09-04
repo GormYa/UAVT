@@ -2,6 +2,10 @@
 
 Türkiye il, ilçe, köy, mahalle ve yol isimleri veritabanı. *Ulusal adres veritabanından alınmıştır.* Dosyaların içerisinde son güncellenme sütunu bulunuyor. Farklı veri formatlarına çevirirseniz pull request atmaktan çekinmeyin.
 
+| İl Sayısı | İlçe Sayısı | Mahalle Sayısı | Köy Sayısı | Yol Sayısı |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+| 81 | 973 | 32347 | 18621 | 1148549 | 1148549 |
+
 
 ## Village TypeCodes:
 - 0 (Or Empty): Köy
